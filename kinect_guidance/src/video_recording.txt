@@ -1,0 +1,2 @@
+rosrun image_view video_recorder image:="/kinect2/sd/image_color_rect" _filename:="record.avi" _max_depth_range:="0" _fps:="30" _codec:="I420"
+
